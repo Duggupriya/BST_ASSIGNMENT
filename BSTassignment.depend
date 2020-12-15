@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1608006056 source:d:\manipal study\ada\stackandqueueassign\bstassignment\bst.c
+	<assert.h>
+	<stdint.h>
+	"bst.h"
+	<stdio.h>
+
+1608005869 d:\manipal study\ada\stackandqueueassign\bstassignment\bst.h
+	<stdint.h>
+
+1608005843 source:d:\manipal study\ada\stackandqueueassign\bstassignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	<stdlib.h>
+	"bst.h"
+
